@@ -23,7 +23,6 @@ class HomeFragment : Fragment(){
     private lateinit var binding: FragmentHomeBinding
     private lateinit var currencyList: ArrayList<CurrencyModel>
 
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
